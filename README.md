@@ -1,2 +1,2 @@
 # pixie-block
-pixie with chunk of blocks
+pixie with chunks of block
